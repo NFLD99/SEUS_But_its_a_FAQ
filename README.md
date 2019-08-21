@@ -38,7 +38,7 @@
 ---
 
 ## What GPUs can I use with PTGI?
-### Nvidea
+### NVIDIA
 - This is the main GPU type used with PTGI.
 ### AMD
 - Compatibility with AMD GPUs is being actively worked on. You will still experience some minor visual bugs, and you may experience random crashing.
