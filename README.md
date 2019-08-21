@@ -10,7 +10,7 @@
 - OptiFine HD U F3 or newer
 ---
 
-## Any Requrements? (the following is for E9)
+## Any Requirements? (the following is for E9)
 - Minecraft 1.14.4 (older version compatibility isn’t possible until new OptiFine features are ported back)
 - ### Options > Video Settings
 - Details > Alternate Blocks: OFF
@@ -46,7 +46,7 @@
 - Unfortunately Compatibility is not possible at all.
 ---
 
-## Knowen issues with PTGI?
+## Known issues with PTGI?
 - Block texture alpha is not considered in diffuse GI tracing, so doors and trapdoors don't let any light through their windows currently.
 - Being underwater in ravines/caves shows some light leaking, and “glowing” water fog. This is unavoidable currently.
 - Some artifacts on edges of water shadows (will improve in the future)
