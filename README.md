@@ -42,11 +42,11 @@
 - This is the main GPU type used with PTGI.
 ### AMD
 - Compatibility with AMD GPUs is being actively worked on. You will still experience some minor visual bugs, and you may experience random crashing.
-### Inte
+### Intel
 - Unfortunately Compatibility is not possible at all.
 ---
 
-## knowen issues with PTGI?
+## Knowen issues with PTGI?
 - Block texture alpha is not considered in diffuse GI tracing, so doors and trapdoors don't let any light through their windows currently.
 - Being underwater in ravines/caves shows some light leaking, and “glowing” water fog. This is unavoidable currently.
 - Some artifacts on edges of water shadows (will improve in the future)
